@@ -2,7 +2,7 @@
 
 _Software Developer & DevOps Engineer_ <br>
 
-[Email](mailto:jobs@bernduphoff.de) 
+📧[Email](mailto:jobs@bernduphoff.de) 
 
 ## Experience
 ## Technologies
